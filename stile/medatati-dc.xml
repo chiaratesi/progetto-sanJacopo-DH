@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione>
+	<item n="1">
+		<genere>PITTURA</genere>
+		<titolo-item>Immagine 1 affreschi XII secolo</titolo-item>
+		<immagine riferimento="img/cristo-magister-veritatis.png"/>
+		<metadati>
+			<titolo-opera>Cristo MAgister Veritatis</titolo-opera>
+			<autore></autore>
+			<data>sec.XII</data>
+			<identificativo tipo="digitale">https://hdl.loc.gov/loc.music/musemnotation.100004</identificativo>
+			<identificativo tipo="permalink">https://lccn.loc.gov/2009536458</identificativo>
+			<supporto>i, 143 leaves of ms. music (1 column, 8-9 lines), bound : parchment ; 20 x 15 cm.</supporto>
+			<segnatura>M2147 XII M1</segnatura>
+			<soggetti>
+				<termine n="1">Graduals (Chants)</termine>
+				<termine n="2">Propers (Music)</termine>
+			</soggetti>
+		</metadati>
+	</item>
+</collezione>
